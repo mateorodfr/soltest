@@ -2,12 +2,12 @@
     "name": "Soltest",
     "symbol": "Soltest",
     "description": "Welcome to solanaltest xd",
-    "image": "https://raw.githubusercontent.com/mateorodfr/soltest/main/testjpeg.png",
+    "image": "https://raw.githubusercontent.com/mateorodfr/soltest/main/rat.jpg",
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/mateorodfr/soltest/main/testjpeg.png",
-                "type": "image/png"
+                "uri": "https://raw.githubusercontent.com/mateorodfr/soltest/main/rat.jpg",
+                "type": "image/jpg"
             }
         ]
     }
