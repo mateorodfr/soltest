@@ -1,0 +1,14 @@
+{
+    "name": "Solanal test",
+    "symbol": "SOLANALT",
+    "description": "Welcome to solanal xd",
+    "image": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/tm01013/token-image/main/token-image.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
