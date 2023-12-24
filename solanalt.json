@@ -2,7 +2,7 @@
 
     "name": "Solanal test",
     "symbol": "SOLANALT",
-    "uri": "https://raw.githubusercontent.com/tm01013/token-metadata/main/token_metedata_github.json",
+    "uri": "https://raw.githubusercontent.com/mateorodfr/soltest/main/solanalton.json",
     "seller_fee_basis_points": 0
 
 }
